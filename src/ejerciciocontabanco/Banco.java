@@ -8,6 +8,7 @@ import javax.swing.JOptionPane;
  * @author Brais
  */
 public class Banco {
+    private int mem;
     private double pepe;
     private String nome;
     private double saldo;
