@@ -9,6 +9,7 @@ import javax.swing.JOptionPane;
  */
 public class Banco {
     double mario;
+    int me;
     private String nome;
     private double saldo;
     private String numConta;
